@@ -6,3 +6,7 @@ enabling efficient real-time video detection and image upload through a Graphica
 Supported Python Version : Python 3.7.16
 
 Run GUI.py file for start detection : 
+![photo_2024-09-18_21-25-19](https://github.com/user-attachments/assets/d0f6e997-ceb1-4dcc-87cb-1bbe1418b15a)
+
+![367644262-20b77de4-ccff-4590-8f86-3113871cabe4](https://github.com/user-attachments/assets/f56eb8e0-32f8-47a6-847f-be945db9645d)
+
